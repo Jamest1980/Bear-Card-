@@ -1,0 +1,18 @@
+.bear1{font-style: italic;} 
+.bear2{ font-weight:bold}
+.container1{border: 1px ;
+  width: 300px;
+  margine:500px;
+  padding:0px}
+.container2{border:1px solid;
+  width: 300px;
+  height:280px;
+  list-style:none;
+  padding:0px;
+}
+.list{list-style:none}
+.bodyborder{ border:1px solid; 
+  width:303px;
+  height:550px;
+  padding:10px
+}
